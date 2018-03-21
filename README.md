@@ -60,11 +60,11 @@
     * 搜索服务(Search)：在核心模块的基础上封装API，提供给应用层使用。
     * 存储服务(Storage)：在核心模块的基础上封装API，提供给应用层使用。
 * 核心模块
-    * 通信模块(P2P Modules)：实现P2P通信。
+    * [通信模块(P2P Modules)](https://github.com/freemanpeng/VOS/blob/master/TechnicalDocument(zh-CN)/P2PModules(zh-CN).md)：实现P2P通信。
     * 控制模块(Control Modules)：维持整个 `VOS` 节点网络的稳定。
     * 存储模块(Storage Modules)：本地存储、去中心化的云存储、区块链存储。
     * 运行模块(Run Modules)：运行后台程序，让每个 `VOS` 可以作为其他 `VOS` 的后台服务器。
 ## 开发计划
 * 将此文档翻译为英文
 * 编写各个模块的技术文档
-* 开发 `通信模块` P2P Modules
+* 开发 `通信模块` (P2P Modules)
