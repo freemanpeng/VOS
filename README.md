@@ -77,7 +77,7 @@
     由于iOS不支持Java，需要使用Object-C或Swift，需单独开发</br>
     Android主要使用于移动设备，虽然是Java开发，其DVM与JVM略有不同，需特殊处理</br>
     移动设备还需要考虑耗电量、不稳定的网络环境等问题，所以先对Mac、Linux、Windows版本进行开发。
-* 界面交互：直接使用宿主机系统的可视化API、Java Swing、Java FX
+* 界面交互：直接使用宿主机系统的可视化API或Java Swing、Java FX
     >目前 `VOS` 系统并未设计可视化API，系统开发时先使用Swing，或宿主机的API。</br>
     ### 关于可视化部分，谁有更好的建议？
 ## 开发计划
