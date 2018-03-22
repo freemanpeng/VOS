@@ -71,7 +71,7 @@
     > Java开发者数量众多，TIOBE排行第一</br>
     Java8的Nashorn提供了对js较好的支持(运行模块将使用Nashorn解释执行js)</br>
     JVM可运行在Mac、Linux、Windows平台，并可以对开源JVM进行改进，使其更适合运行 `VOS`</br>
-    Java有较多的开发框架(本人也较喜欢C/C++，C/C++学习、开发成本高于Java，不利于更多的开发者加入项目)</br>
+    Java有较多的开发框架(本人也较喜欢C/C++，C/C++也更适合开发系统，但学习、开发成本高于Java，不利于更多的开发者加入项目)</br>
 * 系统运行的操作系统：Mac、Linux、Windows、iOS、Android
     > 使用Java开发，先开发Mac、Linux、Windows版本，并进行测试</br>
     由于iOS不支持Java，需要使用Object-C或Swift，需单独开发</br>
