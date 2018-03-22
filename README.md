@@ -65,7 +65,7 @@
     * 存储模块(Storage Modules)：本地存储、去中心化的云存储、区块链存储。
     * 运行模块(Run Modules)：运行后台程序，让每个 `VOS` 可以作为其他 `VOS` 的后台服务器。
 * Java虚拟机
-    * 根据开源JDK开发一款适用于 `VOS` 的JDK
+    * 根据开源JVM开发一款适用于 `VOS` 的JVM
 ## 系统信息
 * 编程语言：Java
     > Java开发者数量众多，TIOBE排行第一</br>
