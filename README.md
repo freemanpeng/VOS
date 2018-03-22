@@ -64,6 +64,22 @@
     * 控制模块(Control Modules)：维持整个 `VOS` 节点网络的稳定。
     * 存储模块(Storage Modules)：本地存储、去中心化的云存储、区块链存储。
     * 运行模块(Run Modules)：运行后台程序，让每个 `VOS` 可以作为其他 `VOS` 的后台服务器。
+* Java虚拟机
+    * 根据开源JDK开发一款适用于 `VOS` 的JDK
+## 系统信息
+* 编程语言：Java
+    > Java开发者数量众多，TIOBE排行第一</br>
+    Java8的Nashorn提供了对js较好的支持(运行模块将使用Nashorn解释执行js)</br>
+    JVM可运行在Mac、Linux、Windows平台，并可以对开源JVM进行改进，使其更适合运行 `VOS`</br>
+    Java有较多的开发框架(本人也较喜欢C/C++，C/C++学习、开发成本高于Java，不利于更多的开发者加入项目)</br>
+* 系统运行的操作系统：Mac、Linux、Windows、iOS、Android
+    > 使用Java开发，先开发Mac、Linux、Windows版本，并进行测试</br>
+    由于iOS不支持Java，需要使用Object-C或Swift，需单独开发</br>
+    Android主要使用于移动设备，虽然是Java开发，其DVM与JVM略有不同，需特殊处理</br>
+    移动设备还需要考虑耗电量、不稳定的网络环境等问题，所以先对Mac、Linux、Windows版本进行开发。
+* 界面交互：直接使用宿主机系统的可视化API、Java Swing、Java FX
+    >目前 `VOS` 系统并未设计可视化API，系统开发时先使用Swing，或宿主机的API。</br>
+    ### 关于可视化部分，谁有更好的建议？
 ## 开发计划
 * 将此文档翻译为英文
 * 编写各个模块的技术文档
