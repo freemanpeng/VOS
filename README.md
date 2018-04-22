@@ -63,8 +63,8 @@
 
 ## 模块技术文档
 * 核心模块
-    * [通信模块(P2P Modules) https://github.com/freemanpeng/VOS/blob/master/TechnicalDocument(zh-CN)/P2PModules(zh-CN).md](https://github.com/freemanpeng/VOS/blob/master/TechnicalDocument(zh-CN)/P2PModules(zh-CN).md)
-    * [存储模块(Storage Modules) https://github.com/freemanpeng/VOS/blob/master/TechnicalDocument(zh-CN)/StorageModules(zh-CN).md](https://github.com/freemanpeng/VOS/blob/master/TechnicalDocument(zh-CN)/StorageModules(zh-CN).md)
+    * 通信模块(P2P Modules)：https://github.com/freemanpeng/VOS/blob/master/TechnicalDocument(zh-CN)/P2PModules(zh-CN).md
+    * 存储模块(Storage Modules)：https://github.com/freemanpeng/VOS/blob/master/TechnicalDocument(zh-CN)/StorageModules(zh-CN).md
 
 ## 系统信息
 * 编程语言：Java
