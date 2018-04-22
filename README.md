@@ -56,10 +56,16 @@
     * 核心模块：
         * 控制模块：`控制模块`控制`通信模块`和`存储模块`互相协作，每个`VOS`的`控制模块`也互相协作，从而保证全网`VOS`节点的通信稳定。
         * [通信模块(P2P Modules)](https://github.com/freemanpeng/VOS/blob/master/TechnicalDocument(zh-CN)/P2PModules(zh-CN).md)：使用P2P技术，实现无中心服务器的点对点通信。
-        * 存储模块：使用分布式账本技术和去中心化的云存储技术，为`VOS`系统提供存储功能。
+        * [存储模块(Storage Modules)](https://github.com/freemanpeng/VOS/blob/master/TechnicalDocument(zh-CN)/StorageModules(zh-CN).md)：使用分布式账本技术和去中心化的云存储技术，为`VOS`系统提供存储功能。
         * 安全模块：保证传输数据、存储数据及系统的安全。
 * 底层部分
     * 根据开源JVM开发一款适用于`VOS`的JVM，为`VOS`提供运行环境。
+
+## 模块技术文档
+* 核心模块
+    * [通信模块(P2P Modules) https://github.com/freemanpeng/VOS/blob/master/TechnicalDocument(zh-CN)/P2PModules(zh-CN).md](https://github.com/freemanpeng/VOS/blob/master/TechnicalDocument(zh-CN)/P2PModules(zh-CN).md)
+    * [存储模块(Storage Modules) https://github.com/freemanpeng/VOS/blob/master/TechnicalDocument(zh-CN)/StorageModules(zh-CN).md](https://github.com/freemanpeng/VOS/blob/master/TechnicalDocument(zh-CN)/StorageModules(zh-CN).md)
+
 ## 系统信息
 * 编程语言：Java
     > Java开发者数量众多，TIOBE排行第一</br>
